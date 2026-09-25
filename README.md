@@ -1,4 +1,4 @@
-# Salesforce Marketing Cloud iOS SDKs — CocoaPods Specs
+# Salesforce Marketing Cloud iOS SDKs - CocoaPods Specs
 
 Public CocoaPods specs repository for the Salesforce Marketing Cloud iOS SDKs.
 It holds the `.podspec` files that let CocoaPods resolve and install the
